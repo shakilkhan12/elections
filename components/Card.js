@@ -47,7 +47,7 @@ const Card = ({ item }) => {
           </span>
         </span>
         <Link
-          href="#"
+          href="/national-assembly"
           className="text-sm capitalize text-[#31B099] hover:text-[#31B099] focus:text-[#31B099]"
         >
           view more &rarr;

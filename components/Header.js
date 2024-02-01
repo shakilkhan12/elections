@@ -25,7 +25,7 @@ const Header = () => {
                 className="w-full outline-none pl-12 pr-7 text-white bg-[#333E4E]  h-[60px] rounded-full placeholder:text-[#D8D8D8] placeholder:text-sm placeholder:font-medium"
               />
             </div>
-            <button className="h-[60px] block lg:inline-block w-full lg:w-auto mt-4 lg:mt-0 bg-white rounded-full px-8 capitalize text-base font-medium text-black">
+            <button className="h-[60px] block lg:inline-block w-full lg:w-auto mt-4 lg:mt-0 bg-white rounded-full px-10 capitalize text-base font-medium text-black">
               search
             </button>
           </div>
