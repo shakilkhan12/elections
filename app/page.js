@@ -14,7 +14,7 @@ export default function Home() {
       <Header />
       <div className="bg-[#F4F4F7]">
         <Wrapper>
-          <div className="max-w-screen-xl mx-auto">
+          <div className="max-w-screen-xl px-4 mx-auto">
             <Table />
             <h1 className="my-10 text-lg font-medium capitalize">
               summary by assembly

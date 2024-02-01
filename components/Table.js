@@ -5,7 +5,7 @@ import { IoMdShare } from "react-icons/io";
 const Table = () => {
   return (
     <div className="bg-white rounded-[16px] p-4">
-      <div className="overflow-x-scroll">
+      <div className="overflow-x-auto">
         <table className="w-full">
           <thead>
             <tr className="w-full bg-[#EDF1F3] h-[48px]">
