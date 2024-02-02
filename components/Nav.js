@@ -102,13 +102,13 @@ const Nav = () => {
         </ul>
         <div className="flex items-center space-x-4">
           <Link
-            href="/login"
+            href="/auth/login"
             className="text-[#31B099] text-sm font-medium capitalize"
           >
             login
           </Link>
           <Link
-            href="/login"
+            href="/auth/login"
             className="bg-[#31B099] text-white py-3 px-7 rounded-[36px] text-sm font-medium capitalize"
           >
             sign up

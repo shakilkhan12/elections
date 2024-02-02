@@ -6,7 +6,7 @@ const Summary = () => {
   return (
     <div className="bg-white rounded-[16px] p-8">
       <h1 className="text-[1C2026] text-xl font-semibold capitalize">
-        NA Election Summary
+        NA 120 Lahore Result
       </h1>
       <div className="mt-10 grid grid-cols-1 lg:grid-cols-2 gap-8">
         <div className="grid grid-cols-2 gap-8">
@@ -29,7 +29,7 @@ const Summary = () => {
         </div>
       </div>
       <div className="mt-20 flex items-center space-x-6 justify-end">
-        <h2 className="text-lg font-bold">Major Target: 137</h2>
+        <h2 className="text-lg font-bold">Latest updated 1/3/2024</h2>
         <span className="flex items-center text-[#31B099] space-x-2">
           <IoMdShare className="text-[#31B099]" />
           <span className="text-sm font-medium capitalize text-[#31B099]">

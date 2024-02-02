@@ -4,7 +4,7 @@ import { CiSearch } from "react-icons/ci";
 const Header = () => {
   return (
     <header className="bg-[#1C2026]">
-      <div className="h-[520px] flex items-center max-w-screen-xl mx-auto px-4">
+      <div className="h-[420px] flex items-center max-w-screen-xl mx-auto px-4">
         <div className="w-full lg:w-[850px]">
           <h1 className="text-white text-3xl md:text-[48px] font-semibold">
             Election 2024 Summary

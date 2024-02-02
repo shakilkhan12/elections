@@ -136,7 +136,7 @@ export const columns = [
     header: "Details",
     cell: ({ row }) => (
       <div className="capitalize">
-        <Link href="/">view details</Link>
+        <Link href="/halqa/1">view details</Link>
       </div>
     ),
   },
